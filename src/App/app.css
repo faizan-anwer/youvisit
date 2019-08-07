@@ -1,0 +1,10 @@
+/* The navigation bar */
+.navbar {
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the bottom of the page */
+    width: 100%; /* Full width */
+  }
+  .navbar-brand>img {
+    background-color: #ffffff;
+    height: 50px;
+  }
