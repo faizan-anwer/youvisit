@@ -1,5 +1,5 @@
 # youvisit
-YouVisit react app test
+YouVisit react app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -120,7 +120,7 @@ Auth header is a helper function that returns an HTTP Authorization header conta
 
 ### React Mock Backend
 Path: /src/helpers/fake-backend.js
-The fake backend is used for running the test without a server api (backend-less). It patches the fetch() function to intercept certain api requests and mock the behaviour of a real api by managing data in browser local storage. Any requests that aren't intercepted get passed through to the real fetch() function.
+The fake backend is used for running the without a server api (backend-less). It patches the fetch() function to intercept certain api requests and mock the behaviour of a real api by managing data in browser local storage. Any requests that aren't intercepted get passed through to the real fetch() function.
 
 ### React Router History
 Path: /src/helpers/history.js
