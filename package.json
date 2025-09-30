@@ -6,7 +6,7 @@
     "babel-polyfill": "^6.26.0",
     "events-polyfill": "^2.1.2",
     "history": "^4.6.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^5.1.1",
